@@ -1,0 +1,32 @@
+.caldiv {
+    width: 200px;
+    margin: auto;
+    border: 8px solid rgb(214, 8, 70);
+    border-radius: 22px;
+    background: rgb(9, 102, 109);
+    color: azure;
+    text-align: center;
+}
+
+#EnteringField {
+    height: 40px;
+    width: 180px;
+    border: 1px solid blue;
+    border-radius: 8px;
+}
+
+input {
+    border: 2px solid rgb(36, 5, 207);
+    border-radius: 50%;
+    background-color: azure;
+    height: 40px;
+    width: 44px;
+}
+
+#clear {
+    background-color: rgb(221, 13, 13);
+}
+
+#equal {
+    background-color: chartreuse;
+}
